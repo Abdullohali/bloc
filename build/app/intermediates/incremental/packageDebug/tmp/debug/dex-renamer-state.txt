@@ -1,0 +1,4 @@
+#Fri Feb 18 07:32:28 UZT 2022
+base.0=/home/fazildjanov23/Documents/flutter/bloctest/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
